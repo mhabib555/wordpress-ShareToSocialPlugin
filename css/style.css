@@ -1,0 +1,15 @@
+.btn-social-share {
+    padding: 15px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid darkblue;
+    background-color: white;
+    color: darkblue;
+    margin-left: 5px;
+    font-weight: bolder;
+}
+
+.btn-social-share:hover {
+    background-color: darkblue;
+    color: white;
+}
